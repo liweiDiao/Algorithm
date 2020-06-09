@@ -1,4 +1,4 @@
-package com.dlw.demo.leetcode;
+package com.dlw.demo.leetcode.array;
 
 import java.util.Arrays;
 import java.util.HashMap;
