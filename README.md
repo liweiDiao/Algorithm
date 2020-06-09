@@ -1,6 +1,6 @@
 
 ## leetCode 学习
-array:
+array:    
 1. 两数之和     
 
 String:    
